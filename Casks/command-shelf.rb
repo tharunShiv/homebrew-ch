@@ -1,7 +1,7 @@
 cask "command-shelf" do
   version "1.5.0"
   # Replace the line below with the output of the shasum command (see step 4)
-  sha256 "e6cc600bd899d7562f074c3121be4946125076a37ee3550eb1bf3c525107d265"
+  sha256 "28fbce6feb549d76617d073dd6c3b4d4e6c2ae114903a8664e13078e24393fe0"
 
   url "https://github.com/tharunShiv/command-shelf/releases/download/v#{version}/Command.Shelf-#{version}-arm64.dmg"
 
